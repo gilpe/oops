@@ -40,7 +40,7 @@ The route covers the area between the start and finish points. It is one-way, fl
 
 Although the road is paved and well-maintained, its topography is whimsical, featuring slopes and sharp turns.
 
-#### The cargo
+### The cargo
 
 Products are loaded into the van when it appears at the starting point.
 
